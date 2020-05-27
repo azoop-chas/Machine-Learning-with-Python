@@ -1,4 +1,4 @@
-# Machine Learning with Pyhton
+# Machine Learning with Python
 
 Welcome to Machine Learning with Python!
 
